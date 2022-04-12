@@ -1,7 +1,7 @@
-.services-title{
+/* .services-title{
     text-align: center;
     color: turquoise;   
-}
+} */
 .services-container{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
